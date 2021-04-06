@@ -1,0 +1,128 @@
+
+
+body{
+ text-align:center;
+ list-style:none;
+ font-family:'De Gothic One', cursive;
+ width:100%;
+ background-color: #000000;
+ background-color: #000000;
+background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+ color:white;
+ 
+}
+
+#main .title{
+ font-size:50px;
+ margin-bottom:-1px;
+}
+
+#main p {
+ font-size: 15px;
+ font-weight: 700;
+ color: #ffbc00;
+}
+
+
+
+#img-info .image{
+ width:500px;
+ height:572px;
+ box-shadow: 5px 5px 15px 5px  #6b6868;
+ margin:40px;
+ border-radius:5px;
+
+}
+#tribute-info .ZN-info h3{
+ font-weight: 900;
+}
+#tribute-info .ZN-info ul li{
+ color:#FFBA13;
+ list-style: none;
+ 
+}
+#tribute-info .ZN-info i{
+ margin:10px;
+ font-size:20px;
+ color:teal;
+}
+.ZN-books ul li{
+ color:#FFBA13;
+ 
+}
+#tribute-books .ZN-books i{
+ margin:5px;
+ font-size:20px;
+ color:powderblue;
+}
+.ZN-books ul li{
+ list-style:none;
+}
+
+#tribute-books{
+ margin:50px;
+}
+#tribute-books h2{
+ font-weight: 900;
+}
+.ZN-awards{
+margin-bottom:50px;
+}
+.ZN-awards ul li{
+ list-style:none;
+ color:#FFBA13;
+}
+.ZN-awards i{
+ font-size:20px;
+ margin:10px;
+ color:#00a1ff;
+}
+.ZN-awards h2{
+ font-size:30px;
+}
+.Zn-islam h3{
+ font-size:40px;
+ background-image: radial-gradient(circle, #5c0067 0%, #00d4ff 100%);
+ padding:10px;
+}
+.Zn-islam p{
+ text-align:start;
+ width:1000px;
+ margin-left:200px;
+ line-height: 30px;
+ background: rgb(29,27,57);
+ background: radial-gradient(circle, rgba(29,27,57,1) 98%, rgba(95,141,255,1) 100%);
+ padding:20px;
+ color:wheat;
+
+}
+#tribute-quote{
+ margin-top:70px;
+ width:500px;
+ margin-left:450px;
+ background-color: #000000;
+ background-image: linear-gradient(147deg, #000000 0%, #2c3e50 74%);
+ height: 500px;
+ 
+ 
+}
+
+#tribute-quote p{
+ width:400px;
+ padding-top:130px;
+ padding-left:50px;
+
+ 
+}
+#tribute-quote h2{
+ padding-bottom:20px;
+
+}
+#tribute-link a{
+ color:wheat;
+ 
+ 
+}
+#tribute-link{
+ margin:50px;
+}
